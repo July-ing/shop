@@ -1,0 +1,19 @@
+.nav-tabs{
+    border-bottom: none;
+}
+
+.navbar-form {
+    padding: 0;
+    margin-top: -2px;
+}
+.Header{
+    margin-bottom: 50px;
+}
+.Sec{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+    margin-top: 30px;
+    border-bottom: 1px solid #f3f3f3;
+}

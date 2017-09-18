@@ -1,0 +1,8 @@
+ul{
+    list-style: none;
+}
+
+ul a:focus, a:hover {
+
+    text-decoration: none;
+}
